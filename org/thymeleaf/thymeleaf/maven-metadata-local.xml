@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.thymeleaf</groupId>
+  <artifactId>thymeleaf</artifactId>
+  <versioning>
+    <release>3.0.11.RELEASE</release>
+    <versions>
+      <version>3.0.11.RELEASE</version>
+    </versions>
+    <lastUpdated>20240719205822</lastUpdated>
+  </versioning>
+</metadata>

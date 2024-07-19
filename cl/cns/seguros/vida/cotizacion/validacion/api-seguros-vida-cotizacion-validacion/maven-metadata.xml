@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cl.cns.seguros.vida.cotizacion.validacion</groupId>
+  <artifactId>api-seguros-vida-cotizacion-validacion</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240719210053</lastUpdated>
+  </versioning>
+</metadata>

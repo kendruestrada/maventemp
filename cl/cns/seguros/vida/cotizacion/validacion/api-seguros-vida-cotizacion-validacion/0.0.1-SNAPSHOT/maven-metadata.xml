@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cl.cns.seguros.vida.cotizacion.validacion</groupId>
+  <artifactId>api-seguros-vida-cotizacion-validacion</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20240719.210052</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20240719210052</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20240719.210052-1</value>
+        <updated>20240719210052</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20240719.210052-1</value>
+        <updated>20240719210052</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
